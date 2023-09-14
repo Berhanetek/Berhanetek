@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **Berhanetek/Berhanetek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
-- 🎓 I’m recently graduated from KAIST, Korea Advanced Institute of Science & Technology. 
-- 🔭 I’m currently working on using segmentation transformers to segment organs on gastro intestinal tract scans 
+- 🎓 I recently graduated from KAIST, Korea Advanced Institute of Science & Technology. 
+- 🔭 I’m currently working on using segmentation transformers to segment organs from gastro intestinal tract scans. 
 - 🧬 I’m currently learning Graph Neural Networks
 - 👯 I’m looking to collaborate on interested data related projects (especially to solve issues in medicine or healthcare)
 - 📫 How to reach me: breteklu@gmail.com | breteklu@kaist.ac.kr
@@ -73,6 +73,6 @@ Here are some ideas to get you started:
 </a>
 
 - Database: <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" />
 </a>
 
