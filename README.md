@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 🧬 I’m currently learning Graph Neural Networks
 - 👯 I’m looking to collaborate on interested data related projects (especially to solve issues in medicine or healthcare)
 - 📫 How to reach me: breteklu@gmail.com | breteklu@kaist.ac.kr
+- 🔍 If interested check out my [**portfolio**](https://sites.google.com/view/berhanet).
+
 <!--### - 🤔 I’m looking for help with ...
 ### - ⚡ Fun fact: 
 ### - 💬 Ask me about ...-->
@@ -30,7 +32,7 @@ Here are some ideas to get you started:
 </a><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" />
 </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="30" height="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="32" height="28" />
 </a><a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="30" height="30" />
 </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -73,6 +75,6 @@ Here are some ideas to get you started:
 </a>
 
 - Database: <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
 </a>
 
