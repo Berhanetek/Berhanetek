@@ -13,4 +13,16 @@ Here are some ideas to get you started:
 ### - 💬 Ask me about ...-->
 - 📫 How to reach me: breteklu@gmail.com | breteklu@kaist.ac.kr
 
+Skills Summary
 
+Programming Languages: Python C SQL Scala JavaScript
+
+Frameworks and libraries: Tensorflow Pytorch Numpy Pandas OpenCV Scipy Scikit-Learn Matplotlib Plotly Dash
+
+Big Data & Cloud: PySpark AWS GCP
+
+DevOps & Version Control: Git Github Docker WandB
+
+Backend Development: nodejs fastapi
+
+Database: mysql
